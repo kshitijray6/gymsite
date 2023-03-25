@@ -1,3 +1,3 @@
 Site to sell gym essentials
 
-Site Link- https://vaibhav073.github.io/gymsite/
+Site Link- https://kshitijray6.github.io/gymsite/
